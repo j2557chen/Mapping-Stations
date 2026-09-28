@@ -5,7 +5,7 @@ This repository exists
 # Instllation: Windows
 
 ## Python Environment
-It is recommended to conda to set up a Python environment, but any method of creating a python environment
+It is recommended to use conda to set up a Python environment, but any method of creating a python environment
 should function as normal. Python 3.9.18 is recommended, as the code was written and tested in 3.9.18. Later
 versions with adequate compatibility with project packages may work, but use them at your own risk.
 
